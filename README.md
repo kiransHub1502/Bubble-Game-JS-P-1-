@@ -59,4 +59,6 @@ Learning Web Development | JavaScript | Git & GitHub
 
 ⭐ If you like this project, feel free to star the repository!
 
+## 🚀 Live Demo
+https://kiranshub1502.github.io/Bubble-Game-JS-P-1-/
 
